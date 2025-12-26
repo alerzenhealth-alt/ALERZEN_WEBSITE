@@ -1,0 +1,15 @@
+# Force the Node provider and ignore Deno detection
+providers = ["node"]
+
+[phases.setup]
+nixPkgs = ["nodejs"]
+
+[phases.install]
+cmds = ["npm install"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+# Set this to the command that starts your server
+cmd = "node server/index.js"
