@@ -1,0 +1,229 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Brand Colors - Alerzen Health */
+    --background: 0 0% 100%;
+    --foreground: 0 15% 20%;
+
+    /* Alerzen Brand Colors (From Logo) */
+    /* Red: #be2c2d -> HSL(359, 62%, 46%) */
+    --primary: 359 62% 46%;
+    --primary-foreground: 0 0% 100%;
+    --primary-light: 359 62% 56%;
+
+    /* Blue: #0b3c65 -> HSL(207, 80%, 22%) */
+    --accent: 207 80% 22%;
+    --accent-foreground: 0 0% 100%;
+    --accent-bright: 207 80% 35%;
+
+    /* Neutral Greys */
+    --muted: 180 10% 96%;
+    --muted-foreground: 180 15% 45%;
+
+    --secondary: 180 20% 95%;
+    --secondary-foreground: 180 65% 15%;
+
+    /* UI Elements */
+    --card: 0 0% 100%;
+    --card-foreground: 180 65% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 180 65% 15%;
+
+    --border: 180 15% 90%;
+    --input: 180 15% 90%;
+    --ring: 180 75% 20%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --radius: 0.75rem;
+
+    /* Premium Shadows */
+    --shadow-sm: 0 1px 2px 0 hsl(180 20% 20% / 0.05);
+    --shadow-md: 0 4px 6px -1px hsl(180 20% 20% / 0.08);
+    --shadow-lg: 0 10px 15px -3px hsl(180 20% 20% / 0.1);
+    --shadow-xl: 0 20px 25px -5px hsl(180 20% 20% / 0.12);
+
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .dark {
+    --background: 0 15% 10%;
+    --foreground: 0 0% 98%;
+
+    --primary: 0 65% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --accent: 145 45% 40%;
+    --accent-foreground: 0 0% 100%;
+
+    --muted: 180 30% 15%;
+    --muted-foreground: 180 10% 65%;
+
+    --card: 180 50% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --border: 180 30% 20%;
+    --input: 180 30% 20%;
+    --ring: 180 60% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.6s ease-out;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.6s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes float {
+
+    0%,
+    100% {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .animate-float-delayed {
+    animation: float 3s ease-in-out infinite;
+    animation-delay: 1.5s;
+  }
+
+  /* Glassmorphism utilities */
+  .glass {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  }
+
+  .glass-card {
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  }
+
+  .glass-dark {
+    background: rgba(14, 55, 63, 0.4);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Glass Background Patterns */
+  .glass-bg-pattern {
+    position: relative;
+    background-color: transparent;
+  }
+
+  .glass-bg-pattern::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* User provided background image */
+    background-image: url('/glass-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  /* Decorative Orbs - refined */
+  .glass-orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(60px);
+    z-index: 0;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+
+  .glass-orb-1 {
+    width: 400px;
+    height: 400px;
+    top: -100px;
+    right: -100px;
+    background: radial-gradient(circle, rgba(11, 60, 101, 0.15) 0%, rgba(11, 60, 101, 0) 70%);
+  }
+
+  .glass-orb-2 {
+    width: 300px;
+    height: 300px;
+    bottom: 10%;
+    left: -50px;
+    background: radial-gradient(circle, rgba(190, 44, 45, 0.1) 0%, rgba(190, 44, 45, 0) 70%);
+  }
+}

@@ -1,0 +1,5789 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "tests": [
+    {
+      "id": "1",
+      "name": "1",
+      "description": "Comprehensive analysis of blood cells including RBC, WBC, platelets, and hemoglobin levels.",
+      "price": 350,
+      "deliveryTime": "4-6 hours",
+      "popular": true,
+      "category": "Basic",
+      "original_price": 650
+    },
+    {
+      "id": "3",
+      "name": "3",
+      "description": "Complete thyroid function test for metabolic health assessment.",
+      "price": 650,
+      "deliveryTime": "6-8 hours",
+      "popular": true,
+      "category": "Hormonal"
+    },
+    {
+      "id": "4",
+      "name": "error",
+      "description": "3-month average blood sugar level monitoring for diabetes management.",
+      "price": 450,
+      "deliveryTime": "4-6 hours",
+      "popular": true,
+      "category": "Diabetes"
+    },
+    {
+      "id": "5",
+      "name": "Liver Function Test (LFT)",
+      "description": "Comprehensive liver health panel including SGOT, SGPT, Bilirubin, and more.",
+      "price": 590,
+      "deliveryTime": "6-8 hours",
+      "popular": false,
+      "category": "Organ"
+    },
+    {
+      "id": "6",
+      "name": "Kidney Function Test (KFT)",
+      "description": "Renal health assessment with Creatinine, Urea, Uric Acid analysis.",
+      "price": 590,
+      "deliveryTime": "6-8 hours",
+      "popular": false,
+      "category": "Organ"
+    },
+    {
+      "id": "7",
+      "name": "Vitamin D Test",
+      "description": "Measure Vitamin D levels for bone health and immunity.",
+      "price": 1200,
+      "deliveryTime": "6-8 hours",
+      "popular": true,
+      "category": "Vitamin"
+    },
+    {
+      "id": "8",
+      "name": "Vitamin B12 Test",
+      "description": "Check B12 levels for energy, neurological function, and cell production.",
+      "price": 800,
+      "deliveryTime": "6-8 hours",
+      "popular": true,
+      "category": "Vitamin"
+    },
+    {
+      "id": "9",
+      "name": "Full Body Checkup",
+      "description": "Comprehensive health screening with 60+ parameters including CBC, Lipid, Thyroid, Liver, Kidney tests.",
+      "price": 2499,
+      "deliveryTime": "6-8 hours",
+      "popular": true,
+      "category": "Package"
+    },
+    {
+      "id": "10",
+      "name": "Iron Studies",
+      "description": "Complete iron panel including serum iron, ferritin, and TIBC.",
+      "price": 650,
+      "deliveryTime": "6-8 hours",
+      "popular": false,
+      "category": "Blood Tests"
+    },
+    {
+      "id": "11",
+      "name": "Uric Acid",
+      "description": "Test for gout and kidney function assessment.",
+      "price": 150,
+      "deliveryTime": "4-6 hours",
+      "popular": false,
+      "category": "Metabolic"
+    },
+    {
+      "id": "12",
+      "name": "CRP (C-Reactive Protein)",
+      "description": "Inflammation marker for infection and chronic disease monitoring.",
+      "price": 450,
+      "deliveryTime": "4-6 hours",
+      "popular": false,
+      "category": "Inflammation"
+    },
+    {
+      "id": "BC0001_1",
+      "name": "17 - HYDROXYPROGESTERONE (17-OHP)",
+      "category": "IMMUNOLOGY",
+      "price": 1855,
+      "original_price": 2226,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB945",
+      "name": "2HE4 (HUMAN EPIDIDYMIS PROTEIN 4)",
+      "category": "BIOCHEMISTRY",
+      "price": 3340,
+      "original_price": 4008,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB980",
+      "name": "5ALPHA-DIHYDROTESTOSTERONE",
+      "category": "IMMUNOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0712",
+      "name": "5-HIAA (HYDROXY INDOLE ACETIC ACID)- RANDOM URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "10 ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0032",
+      "name": "A G RATIO",
+      "category": "BIOCHEMISTRY",
+      "price": 390,
+      "original_price": 468,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB217",
+      "name": "ABSOLUTE BASOPHIL COUNT",
+      "category": "HEMATOLOGY",
+      "price": 220,
+      "original_price": 264,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0035",
+      "name": "ABSOLUTE LYMPHOCYTE COUNT",
+      "category": "HEMATOLOGY",
+      "price": 220,
+      "original_price": 264,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB218",
+      "name": "ABSOLUTE MONOCYTE COUNT",
+      "category": "HEMATOLOGY",
+      "price": 220,
+      "original_price": 264,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0036",
+      "name": "ABSOLUTE NEUTROPHIL COUNT",
+      "category": "HEMATOLOGY",
+      "price": 220,
+      "original_price": 264,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0003",
+      "name": "ACE (ANGIOTENSIN CONVERTING ENZYME)",
+      "category": "BIOCHEMISTRY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB081",
+      "name": "ACHR (ACETYL CHOLINE RECEPTOR-ABS)-  SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB056",
+      "name": "ACID FAST BACILLI (AFB)/ Z.N STAIN",
+      "category": "MICROBIOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "SPUTUM/URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB076",
+      "name": "ACID PHOSPHATASE - TOTAL & FRACTION",
+      "category": "BIOCHEMISTRY",
+      "price": 870,
+      "original_price": 1044,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0005",
+      "name": "ACID PHOSPHATASE PROSTATIC FRACTION",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0004",
+      "name": "ACID PHOSPHATASE TOTAL",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPPBC001",
+      "name": "ADENOSINE DEAMINASE (ADA)",
+      "category": "BIOCHEMISTRY",
+      "price": 870,
+      "original_price": 1044,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0037",
+      "name": "AEC - ABSOLUTE EOSINOPHIL COUNT",
+      "category": "HEMATOLOGY",
+      "price": 220,
+      "original_price": 264,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "MC0001_1",
+      "name": "AFB CULTURE",
+      "category": "MICROBIOLOGY",
+      "price": 2500,
+      "original_price": 3000,
+      "description": "CSF, Pus, Sputum, Tissues,  Bronchial Washings, Aspirated  Body Fluids, Urine",
+      "popular": false
+    },
+    {
+      "id": "PBC0002",
+      "name": "ALANINE AMINOTRANSFERASE/ ALT (SGPT)",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "MC0088",
+      "name": "ALBERT STAIN (CORYNEBACTERIUM DIPHTHERIA  IDENTIFICATION)",
+      "category": "MICROBIOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "SWAB",
+      "popular": false
+    },
+    {
+      "id": "PBC0003",
+      "name": "ALBUMIN",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB211",
+      "name": "ALBUMIN - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB112",
+      "name": "ALBUMIN CREATININE RATIO",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB220",
+      "name": "ALBUMIN-BODY FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPB117",
+      "name": "ALCOHOL (URINE)",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB222",
+      "name": "ALCOHOL/ETHANOL-SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB223",
+      "name": "ALDOLASE-SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1545,
+      "original_price": 1854,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0009",
+      "name": "ALDOSTERONE",
+      "category": "IMMUNOLOGY",
+      "price": 2600,
+      "original_price": 3120,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB116",
+      "name": "ALDOSTERONE / PLASMA RENIN DIRECT RATIO",
+      "category": "IMMUNOLOGY",
+      "price": 10045,
+      "original_price": 12054,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB225",
+      "name": "ALDOSTERONE SITTING",
+      "category": "IMMUNOLOGY",
+      "price": 2280,
+      "original_price": 2736,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB226",
+      "name": "ALDOSTERONE STANDING",
+      "category": "IMMUNOLOGY",
+      "price": 3130,
+      "original_price": 3756,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0004",
+      "name": "ALKALINE PHOSPHATASE",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP701",
+      "name": "ALLERGY PHADIATOP",
+      "category": "SEROLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0012",
+      "name": "ALPHA 1-ANTITRYPSIN",
+      "category": "BIOCHEMISTRY",
+      "price": 3025,
+      "original_price": 3630,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0013",
+      "name": "ALPHA FETO-PROTEIN (AFP)",
+      "category": "IMMUNOLOGY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0198",
+      "name": "AMH - ANTI MULLERIAN HORMONE",
+      "category": "IMMUNOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0005",
+      "name": "AMMONIA",
+      "category": "BIOCHEMISTRY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB679",
+      "name": "AMOEBIC SEROLOGY IGG",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0090",
+      "name": "AMPHETAMINE(AMP)",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPBC0015",
+      "name": "AMYLASE",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB227",
+      "name": "AMYLASE-BODY FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPBC02",
+      "name": "ANA BY IMMUNOFLUORESCENCE",
+      "category": "BIOCHEMISTRY",
+      "price": 1970,
+      "original_price": 2364,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB037",
+      "name": "ANA PROFILE",
+      "category": "IMMUNOLOGY",
+      "price": 5205,
+      "original_price": 6246,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB981",
+      "name": "ANCA - PR3 (SERIN PROTEINASE 3 ANTIBODIES)",
+      "category": "IMMUNOLOGY",
+      "price": 1960,
+      "original_price": 2352,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0075",
+      "name": "ANCA (P+C ANCA)",
+      "category": "IMMUNOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP0504",
+      "name": "ANDROGEN PROFILE",
+      "category": "IMMUNOLOGY",
+      "price": 3235,
+      "original_price": 3882,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB231",
+      "name": "ANDROSTENEDIONE SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP201",
+      "name": "ANION GAP (AGP)",
+      "category": "BIOCHEMISTRY",
+      "price": 820,
+      "original_price": 984,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0016",
+      "name": "ANTI THYROGLOBULIN ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP409",
+      "name": "ANTI AQUAPORIN 4 (NMO) AND MYELIN  OLIGODENDROCYTE GLYCOPROTEIN (MOG)  ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 10610,
+      "original_price": 12732,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB209",
+      "name": "ANTI CARDIOLIPIN ANTIBODIES - IGG",
+      "category": "IMMUNOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB092",
+      "name": "ANTI CARDIOLIPIN ANTIBODIES - IGG AND IGM",
+      "category": "IMMUNOLOGY",
+      "price": 1855,
+      "original_price": 2226,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB210",
+      "name": "ANTI CARDIOLIPIN ANTIBODIES - IGM",
+      "category": "IMMUNOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0003",
+      "name": "ANTI CCP ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0005",
+      "name": "ANTI GBM ANTIBODY",
+      "category": "BIOCHEMISTRY",
+      "price": 3025,
+      "original_price": 3630,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0092",
+      "name": "ANTI GLIADIN ANTIBODY:IGA",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0127",
+      "name": "ANTI GLIADIN ANTIBODY:IGG",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB222",
+      "name": "ANTI H PYLORI ANTIBODY TOTAL",
+      "category": "SEROLOGY",
+      "price": 4565,
+      "original_price": 5478,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0128",
+      "name": "HEPATITIS A VIRUS (HAV) ANTIBODY IGG",
+      "category": "SEROLOGY",
+      "price": 1700,
+      "original_price": 2040,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB170",
+      "name": "ANTI HBC TOTAL",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB235",
+      "name": "ANTI INTRINSIC FACTOR ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP864",
+      "name": "ANTI NEUTROPHIL CYTOPLASMIC ANTIBODY  (INDIRECT IF)",
+      "category": "IMMUNOLOGY",
+      "price": 1960,
+      "original_price": 2352,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB237",
+      "name": "ANTI NMO ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 6270,
+      "original_price": 7524,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB778",
+      "name": "ANTI NMO/MOG ANTIBODY TEST",
+      "category": "BIOCHEMISTRY",
+      "price": 10145,
+      "original_price": 12174,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0064",
+      "name": "ANTI NUCLEAR ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP986",
+      "name": "ANTI PARIETAL CELL ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 3235,
+      "original_price": 3882,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0466",
+      "name": "ANTI PHOSPHOLIPID ANTIBODY IGA",
+      "category": "SEROLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0130",
+      "name": "ANTI PHOSPHOLIPID ANTIBODY(APLA), IGG",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0131",
+      "name": "ANTI PHOSPHOLIPID ANTIBODY(APLA), IGM",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0202",
+      "name": "ANTI SACCHAROMYCES CERVISAE (ASCA) IGG  ANTIBODY",
+      "category": "SEROLOGY",
+      "price": 2225,
+      "original_price": 2670,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB241",
+      "name": "ANTI SMOOTH MUSCLE ANTIBODY (ASMA)",
+      "category": "IMMUNOLOGY",
+      "price": 3605,
+      "original_price": 4326,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB242",
+      "name": "ANTI SOLUBLE LIVER ANTIGEN; SLA",
+      "category": "IMMUNOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0465",
+      "name": "ANTI SPERM ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HE0005",
+      "name": "ANTI THROMBIN III",
+      "category": "HEMATOLOGY",
+      "price": 7480,
+      "original_price": 8976,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP070_1",
+      "name": "ANTI THYROGLOBULIN-AB/ATG",
+      "category": "BIOCHEMISTRY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0012",
+      "name": "ANTIBODY RUBELLA IGG",
+      "category": "SEROLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0013",
+      "name": "ANTIBODY RUBELLA IGM",
+      "category": "SEROLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB244",
+      "name": "ANTIBODY TO HEPATITIS B SURFACE ANTIGEN -  ANTI HBSAG",
+      "category": "SEROLOGY",
+      "price": 1645,
+      "original_price": 1974,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0180_4",
+      "name": "ANTI-HERPES SIMPLEX VIRUS 2 IGG",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0062",
+      "name": "ANTI-STREPTOLYSIN -\"O\"(ASO) TITRE (ASLO)",
+      "category": "SEROLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP896",
+      "name": "APLA PROFILE",
+      "category": "IMMUNOLOGY",
+      "price": 4040,
+      "original_price": 4848,
+      "description": "2 ml of SERUM & 2 ml of  Plasma",
+      "popular": false
+    },
+    {
+      "id": "SR0134",
+      "name": "APOLIPOPROTEIN A1 (APO-A1)",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0135",
+      "name": "APOLIPOPROTEIN B (APO-B)",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "GRPB075",
+      "name": "APTT - PARTIAL THROMBOPLASTIN TIME",
+      "category": "HEMATOLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP906",
+      "name": "APTT MIXING STUDIES",
+      "category": "HEMATOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB212",
+      "name": "ASCA (ANTI SACCHAROMYCES CEREVISIAE  ANTIBODY), IGM & IGG PANEL",
+      "category": "IMMUNOLOGY",
+      "price": 4040,
+      "original_price": 4848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB719",
+      "name": "ASPERGILLUS ANTIBODY- IGG",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0999",
+      "name": "ASPERGILLUS ANTIBODY IGM",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB062",
+      "name": "AUTOIMMUNE HEPATITIS PROFILE",
+      "category": "SEROLOGY",
+      "price": 5255,
+      "original_price": 6306,
+      "description": "2 ml of SERUM/ PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PBC0091",
+      "name": "BARBITURATES(BAR)",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 1080,
+      "original_price": 1296,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP0987",
+      "name": "BCR-ABL BY PCR QUANTITATIVE",
+      "category": "Molecular Biology",
+      "price": 12455,
+      "original_price": 14946,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0092",
+      "name": "BENZODIAZEPINE(BZD)",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 2495,
+      "original_price": 2994,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "Lab487",
+      "name": "BETA 2 GLYCOPROTEIN - IGA",
+      "category": "IMMUNOLOGY",
+      "price": 1960,
+      "original_price": 2352,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB246",
+      "name": "BETA 2 GLYCOPROTEIN - IGG",
+      "category": "IMMUNOLOGY",
+      "price": 1960,
+      "original_price": 2352,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP110",
+      "name": "BETA 2 GLYCOPROTEIN PANEL",
+      "category": "IMMUNOLOGY",
+      "price": 4030,
+      "original_price": 4836,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB208",
+      "name": "BETA 2 MICROGLOBULIN IGM & IGG",
+      "category": "IMMUNOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0063",
+      "name": "BETA HCG TOTAL",
+      "category": "IMMUNOLOGY",
+      "price": 1040,
+      "original_price": 1248,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LABBIO01",
+      "name": "BETA-2-CROSSLAPS (CTX)",
+      "category": "IMMUNOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0007",
+      "name": "BICARBONATE(HCO3)",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB561",
+      "name": "BILE ACIDS - SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB040",
+      "name": "BLEEDING TIME & CLOTTING TIME",
+      "category": "HEMATOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "HE0046",
+      "name": "BLOOD GROUP & RH TYPING",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP299",
+      "name": "BLOOD UREA NITROGEN (BUN)",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB454",
+      "name": "BODY FLUID - CELL COUNT",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "ANY FLUID",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0219",
+      "name": "BODY FLUID - CULTURE AND SENSITIVITY  (AUTOMATED)",
+      "category": "MICROBIOLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "LAB461",
+      "name": "BODY FLUID - DIFFERENTIAL COUNT",
+      "category": "Cytology",
+      "price": 190,
+      "original_price": 228,
+      "description": "ANY FLUID",
+      "popular": false
+    },
+    {
+      "id": "LAB462",
+      "name": "BODY FLUID - SUGAR",
+      "category": "BIOCHEMISTRY",
+      "price": 70,
+      "original_price": 84,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRP025",
+      "name": "BODY FLUID ANALYSIS",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "LAB0657",
+      "name": "BONE MARROW ASPIRATE - SLIDE FOR SECOND  OPINION",
+      "category": "HEMATOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "SMEAR",
+      "popular": false
+    },
+    {
+      "id": "LAB456",
+      "name": "BONE MARROW BIOPSY",
+      "category": "HISTOPATHOLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "Bone marrow tissue",
+      "popular": false
+    },
+    {
+      "id": "PGRP0601",
+      "name": "BREAST CANCER MARKERS PANEL",
+      "category": "HISTOPATHOLOGY",
+      "price": 11175,
+      "original_price": 13410,
+      "description": "Paraffin Block",
+      "popular": false
+    },
+    {
+      "id": "LAB251",
+      "name": "BRUCELLA - IGG",
+      "category": "SEROLOGY",
+      "price": 1800,
+      "original_price": 2160,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB063",
+      "name": "BRUCELLA - IGG & IGM",
+      "category": "SEROLOGY",
+      "price": 3445,
+      "original_price": 4134,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0137",
+      "name": "BRUCELLA IGM",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0065",
+      "name": "C REACTIVE PROTEIN (CRP)",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0066",
+      "name": "CA 125",
+      "category": "IMMUNOLOGY",
+      "price": 1545,
+      "original_price": 1854,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0030",
+      "name": "CA 15-3",
+      "category": "IMMUNOLOGY",
+      "price": 1545,
+      "original_price": 1854,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB151",
+      "name": "CA 19.9",
+      "category": "IMMUNOLOGY",
+      "price": 2225,
+      "original_price": 2670,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0100",
+      "name": "CA 72.4",
+      "category": "IMMUNOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB021",
+      "name": "CALCITONIN/THYROCALCITONIN",
+      "category": "IMMUNOLOGY",
+      "price": 4250,
+      "original_price": 5100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0011",
+      "name": "CALCIUM",
+      "category": "BIOCHEMISTRY",
+      "price": 270,
+      "original_price": 324,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB500",
+      "name": "CALCIUM - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0010",
+      "name": "CALCIUM - RANDOM URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0033",
+      "name": "CARBAMAZEPINE",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB253",
+      "name": "CARNITINE",
+      "category": "IMMUNOLOGY",
+      "price": 6270,
+      "original_price": 7524,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC001",
+      "name": "CATECHOLAMINES - URINE 24 HRS",
+      "category": "BIOCHEMISTRY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "lab1000",
+      "name": "CATECHOLAMINES, PLASMA",
+      "category": "BIOCHEMISTRY",
+      "price": 11075,
+      "original_price": 13290,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB254",
+      "name": "CCP ANTIBODY TO CYCLIC CITRULLINATED  PEPTIDE (ANTI CCP)",
+      "category": "IMMUNOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP850",
+      "name": "CD 19",
+      "category": "HEMATOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP851",
+      "name": "CD 20",
+      "category": "HEMATOLOGY",
+      "price": 3235,
+      "original_price": 3882,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "HE031",
+      "name": "CD31",
+      "category": "HISTOPATHOLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "Paraffin Block",
+      "popular": false
+    },
+    {
+      "id": "HE34",
+      "name": "CD34",
+      "category": "HISTOPATHOLOGY",
+      "price": 4565,
+      "original_price": 5478,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB080",
+      "name": "CD4/CD8 COUNTS",
+      "category": "HEMATOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0067",
+      "name": "CEA - CARCINO EMBRYONIC ANTIGEN",
+      "category": "IMMUNOLOGY",
+      "price": 1960,
+      "original_price": 2352,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0036",
+      "name": "CERULOPLASMIN",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0017",
+      "name": "CHIKUNGUNYA VIRUS ANTIBODY, IGM",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB801",
+      "name": "CHLAMYDIA TRACHOMATICS - IGG",
+      "category": "SEROLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB802",
+      "name": "CHLAMYDIA TRACHOMATICS IGM",
+      "category": "SEROLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PPKG985",
+      "name": "CHLAMYDIA TRACHOMATIS AND NEISSERIA  GONORRHOEAE, QUALITATIVE, PCR",
+      "category": "Molecular Biology",
+      "price": 10395,
+      "original_price": 12474,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB258",
+      "name": "CHLORIDE - CSF",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "CSF",
+      "popular": false
+    },
+    {
+      "id": "PBC0012",
+      "name": "CHLORIDE -SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0013",
+      "name": "CHLORIDE -URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0014",
+      "name": "CHOLESTEROL TOTAL",
+      "category": "BIOCHEMISTRY",
+      "price": 210,
+      "original_price": 252,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB260",
+      "name": "CHROMIUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1700,
+      "original_price": 2040,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB261",
+      "name": "CHROMOGRANIN - A",
+      "category": "BIOCHEMISTRY",
+      "price": 9025,
+      "original_price": 10830,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB502",
+      "name": "CITRATE - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0015",
+      "name": "CK-MB",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LABCP02",
+      "name": "CLOSTRIDIUM DIFFICILE DETECTION, PCR",
+      "category": "Molecular Biology",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "LAB262",
+      "name": "CLOT RETRACTION TIME",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB263",
+      "name": "CLOTTING TIME",
+      "category": "HEMATOLOGY",
+      "price": 140,
+      "original_price": 168,
+      "description": "Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB064",
+      "name": "COAGULATION PROFILE (EXTENDED)",
+      "category": "HEMATOLOGY",
+      "price": 24720,
+      "original_price": 29664,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PBC0093",
+      "name": "COCAINE (COC)",
+      "category": "BIOCHEMISTRY",
+      "price": 1110,
+      "original_price": 1332,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB265",
+      "name": "COLD AGGLUTININS",
+      "category": "HEMATOLOGY",
+      "price": 820,
+      "original_price": 984,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB267",
+      "name": "COMPLEMENT C3 LEVEL",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB268",
+      "name": "COMPLEMENT C4 LEVEL",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP001",
+      "name": "COMPLETE BLOOD COUNT - CBC",
+      "category": "HEMATOLOGY",
+      "price": 360,
+      "original_price": 432,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP002",
+      "name": "COMPLETE BLOOD COUNT WITH ESR - CBC  WITH ESR",
+      "category": "HEMATOLOGY",
+      "price": 415,
+      "original_price": 498,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP003",
+      "name": "COMPLETE HAEMOGRAM",
+      "category": "HEMATOLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP511_1",
+      "name": "CONTININE(QUANTITATIVE METHOD) - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 870,
+      "original_price": 1044,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP099",
+      "name": "COPPER - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 2440,
+      "original_price": 2928,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB272",
+      "name": "COPPER - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB271",
+      "name": "COPPER - URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 2440,
+      "original_price": 2928,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB273",
+      "name": "CORRECTED CALCIUM",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB015",
+      "name": "CORTISOL - 4 PM",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB014",
+      "name": "CORTISOL - 8 AM",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0282",
+      "name": "CORTISOL - RANDOM",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB200",
+      "name": "COTININE TEST/ NICOTIN",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP874",
+      "name": "COVID 19 ANTIBODIES IGG & IGM (RAPID  METHOD)",
+      "category": "SEROLOGY",
+      "price": 1040,
+      "original_price": 1248,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP875_1",
+      "name": "COVID 19 ANTIGEN TEST",
+      "category": "Molecular Biology",
+      "price": 450,
+      "original_price": 540,
+      "description": "NASAL SWAB",
+      "popular": false
+    },
+    {
+      "id": "SR0156_1",
+      "name": "COVID IGG ANTIBODY(CLIA)",
+      "category": "SEROLOGY",
+      "price": 1855,
+      "original_price": 2226,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP451",
+      "name": "COVID RT-PCR BY TRUNAT METHOD",
+      "category": "Molecular Biology",
+      "price": 1290,
+      "original_price": 1548,
+      "description": "NASAL / ORAL SWAB",
+      "popular": false
+    },
+    {
+      "id": "BC0041",
+      "name": "C-PEPTIDE",
+      "category": "BIOCHEMISTRY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0016",
+      "name": "CPK / CK -TOTAL (CREATININE KINASE)",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0018",
+      "name": "CREATININE",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0017",
+      "name": "CREATININE - 24HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB274",
+      "name": "CREATININE - BODY FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPB029",
+      "name": "CREATININE CLEARANCE - URINE 24HRS",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB501",
+      "name": "CREATININE-SPOT URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB276",
+      "name": "CRYOGLOBULINS",
+      "category": "BIOCHEMISTRY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "5 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP026",
+      "name": "CSF ANALYSIS",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "CSF",
+      "popular": false
+    },
+    {
+      "id": "PGRPMB01",
+      "name": "CULTURE & SENSITIVITY (MANUAL)",
+      "category": "MICROBIOLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "CSF, Pus, Sputum, Tissues,  Bronchial Washings, Aspirated  Body Fluids, Urine etc",
+      "popular": false
+    },
+    {
+      "id": "BC0048",
+      "name": "CYCLOSPORINE",
+      "category": "BIOCHEMISTRY",
+      "price": 4720,
+      "original_price": 5664,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0314_1",
+      "name": "CYSTATIN C",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0180_2",
+      "name": "CYTOMEGALO VIRUS IGG ANTIBODIES",
+      "category": "SEROLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0181_2",
+      "name": "CYTOMEGALO VIRUS IGM ANTIBODIES",
+      "category": "SEROLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP5462",
+      "name": "CYTOMEGALOVIRUS (CMV) DNA, QUANTITATIVE  PCR",
+      "category": "Molecular Biology",
+      "price": 10715,
+      "original_price": 12858,
+      "description": "2ml of SERUM/2ml of whole  blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0020",
+      "name": "DCT - DIRECT COOMBS TEST",
+      "category": "HEMATOLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0033",
+      "name": "D-DIMER",
+      "category": "HEMATOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "SR0057",
+      "name": "DENGUE ANTIBODY IGG",
+      "category": "SEROLOGY",
+      "price": 560,
+      "original_price": 672,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0058",
+      "name": "DENGUE ANTIBODY IGM",
+      "category": "SEROLOGY",
+      "price": 560,
+      "original_price": 672,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0091",
+      "name": "DENGUE NS1 ANTIGEN",
+      "category": "SEROLOGY",
+      "price": 560,
+      "original_price": 672,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP107",
+      "name": "DENGUE PROFILE ELISA METHOD",
+      "category": "SEROLOGY",
+      "price": 1970,
+      "original_price": 2364,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB043",
+      "name": "DENGUE-NS1 ANTIGEN, IGG & IGM ANTIBODIES  (RAPID METHOD)",
+      "category": "SEROLOGY",
+      "price": 260,
+      "original_price": 312,
+      "description": "2 ml of SERUM or PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LABSC001",
+      "name": "DHEA(DEHYDROXI EPI ANDROSTERONE)",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0147",
+      "name": "DHEA-S (DEHYDROEPIANDROSTERONE SULFATE)",
+      "category": "IMMUNOLOGY",
+      "price": 2070,
+      "original_price": 2484,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB017",
+      "name": "DIFFERENTIAL LEUCOCYTE COUNT (DC)",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB279",
+      "name": "DIGOXIN - DRUG LEVEL",
+      "category": "BIOCHEMISTRY",
+      "price": 2495,
+      "original_price": 2994,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB280",
+      "name": "DIHYDROXY TESTOSTERONE",
+      "category": "IMMUNOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB281",
+      "name": "DIRECT BILIRUBIN",
+      "category": "BIOCHEMISTRY",
+      "price": 200,
+      "original_price": 240,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB065",
+      "name": "DOUBLE MARKER TEST",
+      "category": "IMMUNOLOGY",
+      "price": 3720,
+      "original_price": 4464,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0090",
+      "name": "DRUG PANEL - 6 DRUGS",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP503",
+      "name": "DRUG PANEL - 10 DRUGS",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB282",
+      "name": "DS DNA ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2ml of SERUM/2ML OF  PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB283",
+      "name": "E3-ESTRIOL-SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 1860,
+      "original_price": 2232,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB201_1",
+      "name": "EBV-IGG",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB201_2",
+      "name": "EBV-IGM",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB418",
+      "name": "ECHINOCOCCUS IGG",
+      "category": "SEROLOGY",
+      "price": 2495,
+      "original_price": 2994,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB090_6",
+      "name": "ECSTASY TEST",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP00059",
+      "name": "ELECTROLYTES (NA+, K+, CL) - FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPB003",
+      "name": "ELECTROLYTES (NA+, K+, CL) - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP100",
+      "name": "ELECTROLYTES URINE -SPOT SAMPLE",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB286",
+      "name": "ELECTROPHORESIS - URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 4455,
+      "original_price": 5346,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB329",
+      "name": "ELECTROPHORESIS BY IMMUNOFIXATION (IF) -  SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP265",
+      "name": "ELECTROPHORESIS BY IMMUNOFIXATION (IF) -  URINE",
+      "category": "IMMUNOLOGY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP700",
+      "name": "ENA PANEL",
+      "category": "IMMUNOLOGY",
+      "price": 4035,
+      "original_price": 4842,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB483",
+      "name": "ENDOMYSIAL - IGA",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB1003",
+      "name": "ENDOMYSIAL ANTIBODY IGG",
+      "category": "SEROLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0014",
+      "name": "EOSINOPHILS",
+      "category": "HEMATOLOGY",
+      "price": 100,
+      "original_price": 120,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB504_1",
+      "name": "EPIDERMAL (PEMPHIGUS) ANTIBODY(IFA)",
+      "category": "SEROLOGY",
+      "price": 3445,
+      "original_price": 4134,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPW01",
+      "name": "ER , PR ,HER 2",
+      "category": "Histopathology",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "Tissue / Parafin Blocks",
+      "popular": false
+    },
+    {
+      "id": "PHEM0016",
+      "name": "ERYTHROCYTE SEDIMENTATION RATE",
+      "category": "HEMATOLOGY",
+      "price": 100,
+      "original_price": 120,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB287",
+      "name": "ERYTHROPOIETIN LEVEL",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0068",
+      "name": "ESTRADIOL (E2)",
+      "category": "IMMUNOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGERP001",
+      "name": "EXTENDED RENAL PROFILE",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM, 3 ml of Whole  Blood, URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB0510",
+      "name": "FACTOR IX FUNCTIONAL",
+      "category": "HEMATOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "HE0017",
+      "name": "FACTOR V",
+      "category": "HEMATOLOGY",
+      "price": 8490,
+      "original_price": 10188,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "MP0011",
+      "name": "FACTOR V LEIDEN MUTATION",
+      "category": "HEMATOLOGY",
+      "price": 8490,
+      "original_price": 10188,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB0509",
+      "name": "FACTOR VII FUNCTIONAL",
+      "category": "HEMATOLOGY",
+      "price": 4720,
+      "original_price": 5664,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB289",
+      "name": "FACTOR VIII (ANTI HAEMOPHILIC)",
+      "category": "HEMATOLOGY",
+      "price": 3925,
+      "original_price": 4710,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB1002",
+      "name": "FACTOR X FUNCTIONAL",
+      "category": "HEMATOLOGY",
+      "price": 7275,
+      "original_price": 8730,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB0510_1",
+      "name": "FACTOR XIII",
+      "category": "HEMATOLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PBC0021",
+      "name": "FASTING GLUCOSE- FBS",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB087",
+      "name": "FBS WITH CORRESPONDING URINE SUGAR",
+      "category": "BIOCHEMISTRY",
+      "price": 100,
+      "original_price": 120,
+      "description": "2 ml of Plasma & 5ml of Urine",
+      "popular": false
+    },
+    {
+      "id": "LAB436",
+      "name": "FECAL CALPROTECTIN",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "LABFE00322",
+      "name": "Fecal Elastase",
+      "category": "SEROLOGY",
+      "price": 7905,
+      "original_price": 9486,
+      "description": "Stool",
+      "popular": false
+    },
+    {
+      "id": "BC0062",
+      "name": "FERRITIN",
+      "category": "BIOCHEMISTRY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB290",
+      "name": "FIBRINOGEN DEGRADATION PRODUCT",
+      "category": "HEMATOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB291",
+      "name": "FIBRINOGEN LEVEL - PLASMA",
+      "category": "HEMATOLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "SR0467",
+      "name": "FILARIA ANTIGEN",
+      "category": "SEROLOGY",
+      "price": 990,
+      "original_price": 1188,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0213",
+      "name": "FISH - MDS PANEL - CHROMOSOMES 5Q, 7Q, 8Q  & 20Q",
+      "category": "IMMUNOLOGY",
+      "price": 16380,
+      "original_price": 19656,
+      "description": "3 ml of Whole Blood/BONE  MARROW ASPIRATE",
+      "popular": false
+    },
+    {
+      "id": "LAB049",
+      "name": "FNAC - MULTIPLE SITES",
+      "category": "CYTOLOGY",
+      "price": 2000,
+      "original_price": 2400,
+      "description": "Aspirate material from Breast  / Superficial lumps / CT or  USG guided deep lumps  Smear on 4 glass slides fix  immedialy in absolute alcohol.",
+      "popular": false
+    },
+    {
+      "id": "LAB048",
+      "name": "FNAC - SINGLE SITE",
+      "category": "CYTOLOGY",
+      "price": 1500,
+      "original_price": 1800,
+      "description": "Aspirate material from Breast  / Superficial lumps / CT or  USG guided deep lumps  Smear on 4 glass slides fix  immedialy in absolute alcohol.",
+      "popular": false
+    },
+    {
+      "id": "LAB050",
+      "name": "FNAC (SLIDE REVIEW)",
+      "category": "CYTOLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "Unstained / stained Slides",
+      "popular": false
+    },
+    {
+      "id": "PGRPB103",
+      "name": "FOOD ALLERGY / FOOD INTOLERANCE TEST",
+      "category": "IMMUNOLOGY",
+      "price": 7420,
+      "original_price": 8904,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0069",
+      "name": "FREE - T3",
+      "category": "IMMUNOLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0070",
+      "name": "FREE - T4",
+      "category": "IMMUNOLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP097",
+      "name": "FREE ANDROGEN INDEX",
+      "category": "IMMUNOLOGY",
+      "price": 2070,
+      "original_price": 2484,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB201",
+      "name": "FREE BETA HCG",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0154",
+      "name": "FREE KAPPA LIGHT CHAIN _BC0154_1",
+      "category": "BIOCHEMISTRY",
+      "price": 7695,
+      "original_price": 9234,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PJGRP176",
+      "name": "FREE LIGHT CHAIN ASSAY",
+      "category": "BIOCHEMISTRY",
+      "price": 7590,
+      "original_price": 9108,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0064",
+      "name": "FREE PROSTATE SPECIFIC ANTIGEN",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "GRPB077",
+      "name": "FREE TFT(FREET3,FREET4,TSH",
+      "category": "IMMUNOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB295",
+      "name": "FRUCTOSAMINE - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0071",
+      "name": "FSH - FOLLICLE STIMULATING HORMONE",
+      "category": "IMMUNOLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB109",
+      "name": "FSH LH AND PROLACTIN",
+      "category": "IMMUNOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "MC0079_4",
+      "name": "FUNGAL CULTURE",
+      "category": "MICROBIOLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "Swab/Scaping",
+      "popular": false
+    },
+    {
+      "id": "PGRPH01",
+      "name": "G6PD",
+      "category": "HEMATOLOGY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB297",
+      "name": "GAD ANTIBODY",
+      "category": "BIOCHEMISTRY",
+      "price": 9600,
+      "original_price": 11520,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0469",
+      "name": "GAD-65 (GLUTAMIC ACID DECARBOXYLASE- 65),  IGG",
+      "category": "BIOCHEMISTRY",
+      "price": 9600,
+      "original_price": 11520,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0023",
+      "name": "GAMMA-GLUTAMYL TRANSFERASE (GGT)",
+      "category": "BIOCHEMISTRY",
+      "price": 270,
+      "original_price": 324,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB954",
+      "name": "GANGLIOSIDE ANTIBODY PROFILE - IGG",
+      "category": "SEROLOGY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB957",
+      "name": "GANGLIOSIDE ANTIBODY PROFILE - IGM",
+      "category": "SEROLOGY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB298",
+      "name": "GASTRIN LEVEL - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1800,
+      "original_price": 2160,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0572",
+      "name": "GENE POLYMORPHISM TA (UGT1A1)",
+      "category": "BIOCHEMISTRY",
+      "price": 6955,
+      "original_price": 8346,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0024",
+      "name": "GFR (GLOMERULAR FILTRATION RATE)",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0031",
+      "name": "GLOBULINS - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 270,
+      "original_price": 324,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0027",
+      "name": "GLUCOSE - CSF",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "CSF",
+      "popular": false
+    },
+    {
+      "id": "LAB435",
+      "name": "GLUCOSE - FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPB006",
+      "name": "GLUCOSE CHALLENGE TEST(50 G)",
+      "category": "BIOCHEMISTRY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB007",
+      "name": "GLUCOSE CHALLENGE TEST(75 G)",
+      "category": "BIOCHEMISTRY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP101",
+      "name": "GLUCOSE TOLERANCE TEST [GTT] - 2 SAMPLES",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP102",
+      "name": "GLUCOSE TOLERANCE TEST [GTT] - 3 SAMPLES",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP103",
+      "name": "GLUCOSE TOLERANCE TEST [GTT] - 4 SAMPLES",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP104",
+      "name": "GLUCOSE TOLERANCE TEST [GTT] - 5 SAMPLES",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB084",
+      "name": "GLUCOSE TOLERANCE TEST 100G GTT",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB005",
+      "name": "GLUCOSE TOLERANCE TEST 50G GTT",
+      "category": "BIOCHEMISTRY",
+      "price": 310,
+      "original_price": 372,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB078",
+      "name": "GLUCOSE TOLERANCE TEST 75G GTT",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB015",
+      "name": "GLYCOSYLATED HAEMOGLOBIN (HBA1C)",
+      "category": "BIOCHEMISTRY",
+      "price": 820,
+      "original_price": 984,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB057",
+      "name": "GRAM'S STAIN",
+      "category": "MICROBIOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "ANY FLUID",
+      "popular": false
+    },
+    {
+      "id": "LAB0514",
+      "name": "GROWTH HORMONE (GH)",
+      "category": "IMMUNOLOGY",
+      "price": 1800,
+      "original_price": 2160,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PJH1N1",
+      "name": "H1N1",
+      "category": "Molecular Biology",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "NASAL SWAB",
+      "popular": false
+    },
+    {
+      "id": "BC0071",
+      "name": "HAPTOGLOBIN",
+      "category": "BIOCHEMISTRY",
+      "price": 1970,
+      "original_price": 2364,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0450",
+      "name": "HAV-IGM ANTIBODY-SERUM",
+      "category": "SEROLOGY",
+      "price": 1650,
+      "original_price": 1980,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0001",
+      "name": "HB - HAEMOGLOBIN",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB022",
+      "name": "HB TC DC",
+      "category": "HEMATOLOGY",
+      "price": 310,
+      "original_price": 372,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPHB",
+      "name": "HB TC DC & ESR",
+      "category": "HEMATOLOGY",
+      "price": 360,
+      "original_price": 432,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB024",
+      "name": "HB TC DC & PLATELET COUNT",
+      "category": "HEMATOLOGY",
+      "price": 340,
+      "original_price": 408,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB025",
+      "name": "HB TC DC ESR & PLATELET COUNT",
+      "category": "HEMATOLOGY",
+      "price": 415,
+      "original_price": 498,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "SR0029",
+      "name": "HBV DNA - QUALITATIVE",
+      "category": "Molecular Biology",
+      "price": 5675,
+      "original_price": 6810,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "SR0030",
+      "name": "HBV DNA - QUANTITATIVE",
+      "category": "Molecular Biology",
+      "price": 5675,
+      "original_price": 6810,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0035",
+      "name": "HDL CHOLESTEROL",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0100",
+      "name": "HEAVY METAL PROFILE",
+      "category": "BIOCHEMISTRY",
+      "price": 13495,
+      "original_price": 16194,
+      "description": "2 ml of SERUM/ PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB0546",
+      "name": "HELICOBACTER PYLORI ( H PYLORI ) IGG  ANTIBODIES",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0547",
+      "name": "HELICOBACTER PYLORI ( H PYLORI ) IGM  ANTIBODIES",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB901",
+      "name": "HELICOBACTER PYLORI (H. PYLORI) ANTIGEN -  STOOL",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 2495,
+      "original_price": 2994,
+      "description": "Stool",
+      "popular": false
+    },
+    {
+      "id": "SR0023_2",
+      "name": "HELICOBACTER PYLORI IGA ANTIBODIES",
+      "category": "SEROLOGY",
+      "price": 4040,
+      "original_price": 4848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP510",
+      "name": "HEMAEMOGLUMINUREA FOR URINE",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 310,
+      "original_price": 372,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PHEM0003",
+      "name": "HEMATOCRIT(PACKED CELL VOLUME)",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP0789",
+      "name": "HEMOGLOBIN HPLC/ELECTROPHORESIS",
+      "category": "HEMATOLOGY",
+      "price": 2000,
+      "original_price": 2400,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB085",
+      "name": "HEMOGLOBIN(HB) ELECTROPHORESIS",
+      "category": "HEMATOLOGY",
+      "price": 2000,
+      "original_price": 2400,
+      "description": "2ml of whole blood",
+      "popular": false
+    },
+    {
+      "id": "SR0468",
+      "name": "HEPATITIS B CORE ANTIBODY IGM(ANTI HBC IGM) ELISA",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB045",
+      "name": "HEPATITIS B SURFACE ANTIGEN - HBSAG (CMIA)",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB313",
+      "name": "HEPATITIS B SURFACE ANTIGEN - HBSAG (ELISA)",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB046",
+      "name": "HEPATITIS B SURFACE ANTIGEN - HBSAG (RAPID)",
+      "category": "SEROLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0007",
+      "name": "HEPATITIS B VIRUS - HBV ANTI HBEAG ENVELOPE ANTIBODY",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0026",
+      "name": "HEPATITIS B VIRUS - HBV HBEAG ENVELOPE  ANTIGEN",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB315",
+      "name": "HEPATITIS B VIRUS (HBV) DNA - VIRAL LOAD  /PCR (QUANTITATIVE)",
+      "category": "Molecular Biology",
+      "price": 6800,
+      "original_price": 8160,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB206",
+      "name": "HEPATITIS C VIRAL (HCV RNA), QUANTITATIVE,  ULTRA",
+      "category": "Molecular Biology",
+      "price": 8490,
+      "original_price": 10188,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB107",
+      "name": "HEPATITIS C VIRUS ANTIBODY - HCV (CMIA)",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0192_1",
+      "name": "HEPATITIS C VIRUS ANTIBODY - HCV (ELISA)",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPS114",
+      "name": "HEPATITIS C VIRUS ANTIBODY - HCV (RAPID)",
+      "category": "SEROLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0451",
+      "name": "HEPATITIS E VIRUS (HEV) ANTIBODY IGG",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0451_1",
+      "name": "HEPATITIS E VIRUS (HEV) ANTIBODY IGM",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB047",
+      "name": "HEPATITIS E VIRUS (HEV) IGM / IGG",
+      "category": "SEROLOGY",
+      "price": 4565,
+      "original_price": 5478,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP973",
+      "name": "HERPES SIMPLEX VIRUS (HSV) TYPE 1&2, PCR,  QUALITATIVE",
+      "category": "Molecular Biology",
+      "price": 8705,
+      "original_price": 10446,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0072",
+      "name": "HIGH SENSITIVE CRP",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HS0011",
+      "name": "HISTOPATHOLOGY - LARGE",
+      "category": "HISTOPATHOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "TISSUE",
+      "popular": false
+    },
+    {
+      "id": "HS0010",
+      "name": "HISTOPATHOLOGY (EXTRA LARGE)**",
+      "category": "HISTOPATHOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "TISSUE",
+      "popular": false
+    },
+    {
+      "id": "HS0012",
+      "name": "HISTOPATHOLOGY (SPECIMEN- MEDIUM)*",
+      "category": "HISTOPATHOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "TISSUE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB048",
+      "name": "HIV - CMIA",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB323",
+      "name": "HIV - ELISA",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB049",
+      "name": "HIV - I & II (WESTERN BLOT)",
+      "category": "SEROLOGY",
+      "price": 4040,
+      "original_price": 4848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB512",
+      "name": "HIV - P24",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPS113",
+      "name": "HIV - RAPID",
+      "category": "SEROLOGY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB054",
+      "name": "HIV RNA PCR (QUALITATIVE)",
+      "category": "SEROLOGY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB053",
+      "name": "HIV RNA PCR (QUANTITATIVE)",
+      "category": "SEROLOGY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0073",
+      "name": "HIV VIRAL LOAD QUANTITATIVE",
+      "category": "SEROLOGY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB325",
+      "name": "HLA - B5 (B*51/52)",
+      "category": "HEMATOLOGY",
+      "price": 8500,
+      "original_price": 10200,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "MP0027_1",
+      "name": "HLA B27",
+      "category": "HEMATOLOGY",
+      "price": 4040,
+      "original_price": 4848,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB03",
+      "name": "HOMA-IR",
+      "category": "IMMUNOLOGY",
+      "price": 2495,
+      "original_price": 2994,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0073_1",
+      "name": "HOMOCYSTEINE LEVEL",
+      "category": "BIOCHEMISTRY",
+      "price": 1910,
+      "original_price": 2292,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0195",
+      "name": "HSV (HERPES SIMPLEX VIRUS) 1 & 2 IGG",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0090",
+      "name": "HSV I ANTIBODY IGG",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0090_1",
+      "name": "HSV I ANTIBODY IGM",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0101",
+      "name": "HSV II ANTIBODY IGG",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PYIGM",
+      "name": "HSV II ANTIBODY IGM",
+      "category": "SEROLOGY",
+      "price": 895,
+      "original_price": 1074,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0196",
+      "name": "HSV(HERPES SIMPLEX VIRUS) 1&2 IGM",
+      "category": "SEROLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB326",
+      "name": "HUMAN PAPILLOMA VIRUS (HPV) DNA - PCR",
+      "category": "Molecular Biology",
+      "price": 5460,
+      "original_price": 6552,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB513",
+      "name": "IA2 INSULINOMA ASSOCIATED ANTIGEN",
+      "category": "IMMUNOLOGY",
+      "price": 10200,
+      "original_price": 12240,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB327",
+      "name": "IGF - I SOMATOMEDIN - C",
+      "category": "BIOCHEMISTRY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0302",
+      "name": "IGF BINDING PROTEIN3",
+      "category": "IMMUNOLOGY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB328",
+      "name": "IGG4 - SUBCLASSES",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HS0050",
+      "name": "IHC HER2",
+      "category": "Histopathology",
+      "price": 3030,
+      "original_price": 3636,
+      "description": "Tissue / Parafin Blocks",
+      "popular": false
+    },
+    {
+      "id": "PGRP008_1",
+      "name": "IMMATURE PLATELET FRACTION",
+      "category": "HEMATOLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB074",
+      "name": "IMMUNOGLOBULIN (IGA,IGG,IGM)",
+      "category": "IMMUNOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR35",
+      "name": "IMMUNOGLOBULIN A (IGA) (TOTAL)",
+      "category": "IMMUNOLOGY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0073",
+      "name": "IMMUNOGLOBULIN E (IGE)",
+      "category": "IMMUNOLOGY",
+      "price": 1040,
+      "original_price": 1248,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB330",
+      "name": "IMMUNOGLOBULIN G (IGG)",
+      "category": "IMMUNOLOGY",
+      "price": 990,
+      "original_price": 1188,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB331",
+      "name": "IMMUNOGLOBULIN M (IGM)",
+      "category": "IMMUNOLOGY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB058",
+      "name": "INDIA INK PREPARATION",
+      "category": "MICROBIOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "CSF",
+      "popular": false
+    },
+    {
+      "id": "LAB332",
+      "name": "INDIRECT BILIRUBIN",
+      "category": "BIOCHEMISTRY",
+      "price": 380,
+      "original_price": 456,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0021",
+      "name": "INDIRECT COOMBS TEST",
+      "category": "HEMATOLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0900",
+      "name": "INFECTIOUS MONONUCLEOSIS (IM) MONOSPOT  TEST",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB066",
+      "name": "INHALATION /RESPIRATORY ALLERGY TEST",
+      "category": "IMMUNOLOGY",
+      "price": 4565,
+      "original_price": 5478,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0131",
+      "name": "INHIBIN A - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB333",
+      "name": "INHIBIN B",
+      "category": "BIOCHEMISTRY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0512",
+      "name": "INORGANIC PHOSPHORUS",
+      "category": "BIOCHEMISTRY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0074",
+      "name": "INSULIN - FASTING",
+      "category": "BIOCHEMISTRY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0075",
+      "name": "INSULIN - POSTPRANDIAL",
+      "category": "BIOCHEMISTRY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0076",
+      "name": "INSULIN - RANDOM",
+      "category": "BIOCHEMISTRY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB463",
+      "name": "INSULIN ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 3980,
+      "original_price": 4776,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0079",
+      "name": "INSULIN LIKE GROWTH FACTOR-1 (IGF-1)",
+      "category": "BIOCHEMISTRY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB621",
+      "name": "INTACT PARATHYROID HORMONE",
+      "category": "IMMUNOLOGY",
+      "price": 3235,
+      "original_price": 3882,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PPKG764",
+      "name": "INTERLEUKIN 6",
+      "category": "IMMUNOLOGY",
+      "price": 3450,
+      "original_price": 4140,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0036",
+      "name": "IONISED CALCIUM",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0080_1",
+      "name": "IRON - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB030",
+      "name": "IRON + TIBC",
+      "category": "BIOCHEMISTRY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB067",
+      "name": "IRON PROFILE",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB203",
+      "name": "IRON STUDY WITH FERRITIN",
+      "category": "BIOCHEMISTRY",
+      "price": 1860,
+      "original_price": 2232,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB204",
+      "name": "IRON STUDY WITHOUT FERRITIN",
+      "category": "BIOCHEMISTRY",
+      "price": 1860,
+      "original_price": 2232,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0556",
+      "name": "ISLET ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB334",
+      "name": "KETONE BODIES D-3-HYDROXYBUTYRATE(D3BH)",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB336",
+      "name": "KI67 IHC",
+      "category": "HISTOPATHOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "SLIDE/Paraffin Block",
+      "popular": false
+    },
+    {
+      "id": "PGRPB059",
+      "name": "KOH FOR FUNGUS",
+      "category": "MICROBIOLOGY",
+      "price": 310,
+      "original_price": 372,
+      "description": "SKIN SCRAP / Swab / Sputum",
+      "popular": false
+    },
+    {
+      "id": "BC0082",
+      "name": "LACTATE",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPPBC0037",
+      "name": "LACTATE DEHYDROGENASE",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HE0025",
+      "name": "LAP (LEUCOCYTE ALKALINE PHOSPHATASE)  SCORE(REF)",
+      "category": "HEMATOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0038",
+      "name": "LDL - CHOLESTEROL",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB337",
+      "name": "LDL.CHOL/HDL.CHOL RATIO",
+      "category": "BIOCHEMISTRY",
+      "price": 560,
+      "original_price": 672,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB338",
+      "name": "LE CELL DETECTION",
+      "category": "HEMATOLOGY",
+      "price": 410,
+      "original_price": 492,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0254",
+      "name": "LEAD ( BLOOD )",
+      "category": "BIOCHEMISTRY",
+      "price": 2070,
+      "original_price": 2484,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "IMM0002",
+      "name": "LEPTIN",
+      "category": "IMMUNOLOGY",
+      "price": 6160,
+      "original_price": 7392,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0080",
+      "name": "LEPTOSPIRA ANTIBODIES (IGM)",
+      "category": "SEROLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB073",
+      "name": "LEPTOSPIRA IGM + IGG",
+      "category": "SEROLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0079",
+      "name": "LEPTOSPIRAL ANTIBODIES (IGG)",
+      "category": "SEROLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0212",
+      "name": "LEUKEMIA DIAGNOSTIC PANEL: ACUTE  LEUKEMIA - T, B OR MYELOID",
+      "category": "HEMATOLOGY",
+      "price": 11330,
+      "original_price": 13596,
+      "description": "Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0077",
+      "name": "LH - LUTENIZING HORMONE",
+      "category": "IMMUNOLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPPBC0039",
+      "name": "LIPASE",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB342",
+      "name": "LIPASE - BODY FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPB021",
+      "name": "LIPID PROFILE",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB164",
+      "name": "LIPOPROTEIN (A)",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0086",
+      "name": "LITHIUM",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB012",
+      "name": "LIVER FUNCTION TEST - LFT",
+      "category": "BIOCHEMISTRY",
+      "price": 820,
+      "original_price": 984,
+      "description": "3 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP0920",
+      "name": "LIVER KIDNEY MICROSOMES ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 8385,
+      "original_price": 10062,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "Invalid_Lupus",
+      "name": "LUPUS ANTICOAGULANT",
+      "category": "IMMUNOLOGY",
+      "price": 2070,
+      "original_price": 2484,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP0501",
+      "name": "LYME DISEASE (BORRELIA BURGDORFERI)  ANTIBODIES, IGG & IGM",
+      "category": "SEROLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0012",
+      "name": "LYMPHOCYTES",
+      "category": "HEMATOLOGY",
+      "price": 100,
+      "original_price": 120,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0040",
+      "name": "MAGNESIUM (MG) SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0258",
+      "name": "MALARIAL PARASITE (QBC)",
+      "category": "HEMATOLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB128",
+      "name": "MALARIAL PARASITE RAPID",
+      "category": "HEMATOLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0999",
+      "name": "MANGANESE, BLOOD",
+      "category": "BIOCHEMISTRY",
+      "price": 3025,
+      "original_price": 3630,
+      "description": "4 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB082",
+      "name": "MANTOUX TEST",
+      "category": "SEROLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "-",
+      "popular": false
+    },
+    {
+      "id": "PBC0094",
+      "name": "MARIJUANA(THC)",
+      "category": "BIOCHEMISTRY",
+      "price": 700,
+      "original_price": 840,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PHEM0005",
+      "name": "MEAN CORPUSCULAR HEMOGLOBIN",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0006",
+      "name": "MEAN CORPUSCULAR HEMOGLOBIN  CONCENTRATION",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "4 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0004",
+      "name": "MEAN CORPUSCULAR VOLUME",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "5 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB989",
+      "name": "MEAN PLATELET VOLUME(MPV)",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "6 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "SR0081",
+      "name": "MEASLES ANTIBODIES (IGG)",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0082",
+      "name": "MEASLES ANTIBODIES (IGM)",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0320",
+      "name": "MERCURY - RANDOM URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 5030,
+      "original_price": 6036,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB089",
+      "name": "METANEPHRINES - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 4035,
+      "original_price": 4842,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0095",
+      "name": "METHADONE(MTD)",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0091",
+      "name": "METHOTREXATE LEVEL",
+      "category": "IMMUNOLOGY",
+      "price": 3720,
+      "original_price": 4464,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0319",
+      "name": "METHYLMALONIC ACID ( QUANTITATIVE ) -  SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 3925,
+      "original_price": 4710,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0042",
+      "name": "MICROALBUMIN - URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0041",
+      "name": "MICROALBUMIN - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB008",
+      "name": "MICROALBUMIN/ CREATININE RATIO (24 HRS  URINE)",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB009",
+      "name": "MICROALBUMIN/CREATININE RATIO (RANDOM  URINE)",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB504",
+      "name": "MITOCHONDRIAL ANTIBODY(AMA), IFA",
+      "category": "IMMUNOLOGY",
+      "price": 2225,
+      "original_price": 2670,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB346",
+      "name": "MTHFR (METHYLENETETRAHYDROFOLATE  REDUCTASE) GENE MUTATION QUALITATIVE",
+      "category": "BIOCHEMISTRY",
+      "price": 5040,
+      "original_price": 6048,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "SR0169",
+      "name": "MUMPS IGG(SERUM)",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0170",
+      "name": "MUMPS IGM (CSF)",
+      "category": "SEROLOGY",
+      "price": 2335,
+      "original_price": 2802,
+      "description": "2ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0207",
+      "name": "MUSK (MUSCLE SPECIFIC KINASE) ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 9600,
+      "original_price": 11520,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB347_0",
+      "name": "MYCOBACTERIUM TB GENE EXPERT",
+      "category": "Molecular Biology",
+      "price": 3090,
+      "original_price": 3708,
+      "description": "Tissue / Any Fluide in Normal  Saline",
+      "popular": false
+    },
+    {
+      "id": "LAB349",
+      "name": "NASAL SMEAR FOR EOSINOPHILS",
+      "category": "HEMATOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "smear",
+      "popular": false
+    },
+    {
+      "id": "LAB956",
+      "name": "NEUTROPHILS LYMPHOCYTES RATIO",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0500",
+      "name": "NOR-METANEPHRINE - 24 HRS URINE",
+      "category": "IMMUNOLOGY",
+      "price": 4040,
+      "original_price": 4848,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0095",
+      "name": "NTPROBNP (B-TYPE NATRIURETIC PEPTIDE)",
+      "category": "BIOCHEMISTRY",
+      "price": 3720,
+      "original_price": 4464,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB476",
+      "name": "OPERATION THEATRE SWABS ANAEROBIC (2  SAMPLE)",
+      "category": "MICROBIOLOGY",
+      "price": 500,
+      "original_price": 600,
+      "description": "SWAB",
+      "popular": false
+    },
+    {
+      "id": "PGRPB075",
+      "name": "ORAL GLUCOSE CHALLENGE TEST (OGCT-50G)",
+      "category": "BIOCHEMISTRY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRP031",
+      "name": "ORAL GLUCOSE CHALLENGE TEST (OGCT-100G)",
+      "category": "BIOCHEMISTRY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB031",
+      "name": "ORAL GLUCOSE CHALLENGE TEST (OGCT-75G)",
+      "category": "BIOCHEMISTRY",
+      "price": 190,
+      "original_price": 228,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB356",
+      "name": "OSMOLALITY - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 600,
+      "original_price": 720,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB481",
+      "name": "OT - AIR SAMPLING - OPEN PLATE TEST",
+      "category": "MICROBIOLOGY",
+      "price": 340,
+      "original_price": 408,
+      "description": "SWAB",
+      "popular": false
+    },
+    {
+      "id": "PGRPB032",
+      "name": "OXALATE - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 3235,
+      "original_price": 3882,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB721",
+      "name": "P1NP (PROCOLLAGEN TYPE 1 AMINO TERMINAL  PROPEPTIDE) TOTAL",
+      "category": "BIOCHEMISTRY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB044",
+      "name": "PAP SMEAR (CONVENTIONAL METHOD)",
+      "category": "CYTOLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "Fixed glass slides",
+      "popular": false
+    },
+    {
+      "id": "LAB043",
+      "name": "PAP SMEAR LBC METHOD",
+      "category": "CYTOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "Fixed glass slides",
+      "popular": false
+    },
+    {
+      "id": "BC0310",
+      "name": "PAPP - A",
+      "category": "IMMUNOLOGY",
+      "price": 1855,
+      "original_price": 2226,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB240",
+      "name": "PAROXYSMAL NOCTURNAL HEAMOGLOBINURIA  (PNH)",
+      "category": "IMMUNOLOGY",
+      "price": 9120,
+      "original_price": 10944,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0028",
+      "name": "PERIPHERAL SMEAR",
+      "category": "HEMATOLOGY",
+      "price": 200,
+      "original_price": 240,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0098",
+      "name": "PHENCYCLIDINE(PCP)",
+      "category": "BIOCHEMISTRY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB362",
+      "name": "PHENOBARBITONE",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB-411",
+      "name": "PHENYLKETONUREA URINE SPOT",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0103",
+      "name": "PHENYTOIN LEVEL",
+      "category": "BIOCHEMISTRY",
+      "price": 2815,
+      "original_price": 3378,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB502",
+      "name": "PHOSPHOROUS - 24 HOURS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0043",
+      "name": "PHOSPHOROUS - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 200,
+      "original_price": 240,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB363",
+      "name": "PHOSPHORUS - URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LABIM01",
+      "name": "PLACENTAL GROWTH FACTOR (PIGF)",
+      "category": "IMMUNOLOGY",
+      "price": 6740,
+      "original_price": 8088,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0598",
+      "name": "PLASMA METANEPHRINE",
+      "category": "BIOCHEMISTRY",
+      "price": 5480,
+      "original_price": 6576,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0107",
+      "name": "PLASMA RENIN ACTIVITY",
+      "category": "BIOCHEMISTRY",
+      "price": 7715,
+      "original_price": 9258,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PHEM0008",
+      "name": "PLATELET COUNT",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB514",
+      "name": "PLEURAL FLUID ADA",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "PLEURAL FLUID",
+      "popular": false
+    },
+    {
+      "id": "LAB988",
+      "name": "PORPHOBILINOGE ( PBG )",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB133",
+      "name": "POST DINNER GLUCOSE",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB131",
+      "name": "POST LUNCH GLUCOSE",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PBC0044",
+      "name": "POSTPRANDIAL GLUCOSE - PPBS",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB506",
+      "name": "POTASSIUM - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 600,
+      "original_price": 720,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0045",
+      "name": "POTASSIUM (K+)- SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 200,
+      "original_price": 240,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0099",
+      "name": "POTASSIUM (K+)- URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB086",
+      "name": "PPBS WITH CORRESPONDING URINE SUGAR",
+      "category": "BIOCHEMISTRY",
+      "price": 100,
+      "original_price": 120,
+      "description": "2 ml of Plasma & 5ml of Urine",
+      "popular": false
+    },
+    {
+      "id": "LAB132",
+      "name": "PRE DINNER GLUCOSE",
+      "category": "Biochemistry",
+      "price": 80,
+      "original_price": 96,
+      "description": "2ml of SERUM/2ML OF  PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB130",
+      "name": "PRE LUNCH GLUCOSE",
+      "category": "Biochemistry",
+      "price": 80,
+      "original_price": 96,
+      "description": "2ml of SERUM/2ML OF  PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB364",
+      "name": "PROCALCITONIN (PCT)",
+      "category": "IMMUNOLOGY",
+      "price": 3130,
+      "original_price": 3756,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0078",
+      "name": "PROGESTERONE - SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 930,
+      "original_price": 1116,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0079",
+      "name": "PROLACTIN",
+      "category": "IMMUNOLOGY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0102",
+      "name": "PROLACTIN(POOLED SAMPLES)",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB091_10",
+      "name": "PROPOXYPHENE 10",
+      "category": "BIOCHEMISTRY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0047-G",
+      "name": "PROTEIN - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB367",
+      "name": "PROTEIN - CSF",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "CSF",
+      "popular": false
+    },
+    {
+      "id": "LAB368",
+      "name": "PROTEIN - PLEURAL FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "PLEURAL FLUID",
+      "popular": false
+    },
+    {
+      "id": "PBC0048",
+      "name": "PROTEIN - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB369",
+      "name": "PROTEIN C ANTIGEN",
+      "category": "HEMATOLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "BCPCR",
+      "name": "PROTEIN CREATININE RATIO - RANDOM URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP108",
+      "name": "PROTEIN ELECTROPHORESIS",
+      "category": "BIOCHEMISTRY",
+      "price": 1040,
+      "original_price": 1248,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB450",
+      "name": "PROTEIN S ANTIGEN",
+      "category": "HEMATOLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "2 ml of PLASMA",
+      "popular": false
+    },
+    {
+      "id": "PGRPB010",
+      "name": "PROTEIN/CREATININE RATIO - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB011",
+      "name": "PROTEIN/CREATININE RATIO -URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB604",
+      "name": "PROTHROMBIN GENE MUTATION ANALYSIS",
+      "category": "HEMATOLOGY",
+      "price": 8700,
+      "original_price": 10440,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0080",
+      "name": "PSA - PROSTATE SPECIFIC ANTIGEN(TOTAL)",
+      "category": "IMMUNOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "Lab470",
+      "name": "PSEUDO CHOLINE ESTERASE",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP007",
+      "name": "PT - PROTHROMBIN TIME",
+      "category": "HEMATOLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "Plasma - Until the Specified  Mark",
+      "popular": false
+    },
+    {
+      "id": "BC0101",
+      "name": "PTH - PARATHYROID HORMONE",
+      "category": "BIOCHEMISTRY",
+      "price": 1970,
+      "original_price": 2364,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB203_2",
+      "name": "PUS AFB",
+      "category": "MICROBIOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "PUS",
+      "popular": false
+    },
+    {
+      "id": "LAB203_1",
+      "name": "PUS GRAM STAIN",
+      "category": "MICROBIOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "PUS",
+      "popular": false
+    },
+    {
+      "id": "PGRPB039",
+      "name": "QUADRUPLE MARKER",
+      "category": "BIOCHEMISTRY",
+      "price": 4935,
+      "original_price": 5922,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB503",
+      "name": "QUANTIFERON TB GOLD / GAMMA INTERFERON  FOR TB",
+      "category": "SEROLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0081",
+      "name": "RA FACTOR",
+      "category": "SEROLOGY",
+      "price": 530,
+      "original_price": 636,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0049",
+      "name": "RANDOM GLUCOSE",
+      "category": "BIOCHEMISTRY",
+      "price": 80,
+      "original_price": 96,
+      "description": "2 ml of fluoride plasma",
+      "popular": false
+    },
+    {
+      "id": "PGRPB034",
+      "name": "RAPID PLASMA REAGIN (RPR) / VDRL",
+      "category": "SEROLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HE0037",
+      "name": "RBC COUNT",
+      "category": "HEMATOLOGY",
+      "price": 100,
+      "original_price": 120,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0007",
+      "name": "RED CELL DISTRIBUTION WIDTH",
+      "category": "HEMATOLOGY",
+      "price": 100,
+      "original_price": 120,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB468",
+      "name": "RED CELL FOLATE",
+      "category": "BIOCHEMISTRY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB200",
+      "name": "RENAL / KIDNEY FUNCTION TEST - RFT / KFT",
+      "category": "BIOCHEMISTRY",
+      "price": 760,
+      "original_price": 912,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0017",
+      "name": "RETICULOCYTE COUNT",
+      "category": "HEMATOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "2 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0019",
+      "name": "RH TYPING",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB050",
+      "name": "RUBELLA-(IGG & IGM)",
+      "category": "SEROLOGY",
+      "price": 1970,
+      "original_price": 2364,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB211",
+      "name": "SCLERODERMA PANEL",
+      "category": "IMMUNOLOGY",
+      "price": 7310,
+      "original_price": 8772,
+      "description": "2 ml of SERUM/ PLASMA",
+      "popular": false
+    },
+    {
+      "id": "LAB003",
+      "name": "SELENIUM",
+      "category": "BIOCHEMISTRY",
+      "price": 6300,
+      "original_price": 7560,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRP006",
+      "name": "SEMEN ANALYSIS",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 750,
+      "original_price": 900,
+      "description": "Semen",
+      "popular": false
+    },
+    {
+      "id": "BC0119",
+      "name": "SEROTONIN",
+      "category": "IMMUNOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB603",
+      "name": "SERUM SPECIFIC IGE",
+      "category": "BIOCHEMISTRY",
+      "price": 10200,
+      "original_price": 12240,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB002",
+      "name": "SEX HORMONE BINDING GLOBULIN",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0006",
+      "name": "SGOT / AST - ASPARTATE AMINOTRANSFERASE",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HE0039",
+      "name": "SICKLING,SCREENING TEST",
+      "category": "HEMATOLOGY",
+      "price": 310,
+      "original_price": 372,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB987",
+      "name": "SIROLIMUS(RAPAMYCIN)",
+      "category": "BIOCHEMISTRY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB377",
+      "name": "SLIDE REVIEW (FOR SECOND OPINION)",
+      "category": "HISTOPATHOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "slide box",
+      "popular": false
+    },
+    {
+      "id": "LAB1001",
+      "name": "SMEAR FOR GONOCOCCI",
+      "category": "MICROBIOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "smear",
+      "popular": false
+    },
+    {
+      "id": "PHEM0029",
+      "name": "SMEAR FOR MALARIAL PARASITE",
+      "category": "HEMATOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "2 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PHEM0030",
+      "name": "SMEAR FOR MICROFILARIA",
+      "category": "HEMATOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAb990",
+      "name": "SMITH ANTIBODY ( ANTI SM )",
+      "category": "MICROBIOLOGY",
+      "price": 1800,
+      "original_price": 2160,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0265",
+      "name": "SODIUM - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB380",
+      "name": "SODIUM (NA+) - BODY FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "LAB381",
+      "name": "SODIUM (NA+) - CSF",
+      "category": "BIOCHEMISTRY",
+      "price": 220,
+      "original_price": 264,
+      "description": "CSF",
+      "popular": false
+    },
+    {
+      "id": "PBC0051",
+      "name": "SODIUM (NA+) - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 220,
+      "original_price": 264,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0052",
+      "name": "SODIUM (NA+) - URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB0711",
+      "name": "SODIUM VALPROIC ACID ( VALPROATE )",
+      "category": "BIOCHEMISTRY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB033",
+      "name": "SODIUM(NA+) & POTTASIUM(K+)- SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB382",
+      "name": "SPECIFIC GRAVITY",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 60,
+      "original_price": 72,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB121",
+      "name": "SPUTUM AFB",
+      "category": "MICROBIOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "Sputum",
+      "popular": false
+    },
+    {
+      "id": "LAB152",
+      "name": "SPUTUM GRAM'S",
+      "category": "MICROBIOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "SPUTUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB0214",
+      "name": "SS-A/RO ANTIBODY",
+      "category": "IMMUNOLOGY",
+      "price": 1800,
+      "original_price": 2160,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB384",
+      "name": "STONE ANALYSIS / CALCULUS STUDY",
+      "category": "IMMUNOLOGY",
+      "price": 2340,
+      "original_price": 2808,
+      "description": "Bladder/Kidney/Renal stone",
+      "popular": false
+    },
+    {
+      "id": "PGRP005",
+      "name": "STOOL COMPLETE ANALYSIS / STOOL ROUTINE",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "Stool",
+      "popular": false
+    },
+    {
+      "id": "PCP0031_1",
+      "name": "STOOL EXAMINATION FOR TROPHOZOITES",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "PGRPM01",
+      "name": "STOOL FOR CLOSTRIDIUM DIFFICILE",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "LAB385",
+      "name": "STOOL HANGING DROP",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "PCP0025",
+      "name": "STOOL OCCULT BLOOD",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 200,
+      "original_price": 240,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "PCP0026",
+      "name": "STOOL REDUCING SUBSTANCE",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 160,
+      "original_price": 192,
+      "description": "5g of Stool",
+      "popular": false
+    },
+    {
+      "id": "Test2",
+      "name": "SWAB CULTURE AND SENSITIVITY (MANUAL)",
+      "category": "MICROBIOLOGY",
+      "price": 760,
+      "original_price": 912,
+      "description": "vaginal swab",
+      "popular": false
+    },
+    {
+      "id": "PBC0082",
+      "name": "T3 - TOTAL (SERUM)",
+      "category": "IMMUNOLOGY",
+      "price": 260,
+      "original_price": 312,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0083",
+      "name": "T4 - TOTAL (SERUM)",
+      "category": "IMMUNOLOGY",
+      "price": 320,
+      "original_price": 384,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0166",
+      "name": "TACROLIMUS",
+      "category": "BIOCHEMISTRY",
+      "price": 4830,
+      "original_price": 5796,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "LAB386",
+      "name": "TB - PCR",
+      "category": "SEROLOGY",
+      "price": 3480,
+      "original_price": 4176,
+      "description": "Tissue / Any fluid in normal  Saline",
+      "popular": false
+    },
+    {
+      "id": "PGRPB026",
+      "name": "TC DC",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB027",
+      "name": "TC DC ESR",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB028",
+      "name": "TC DC ESR & AEC",
+      "category": "HEMATOLOGY",
+      "price": 250,
+      "original_price": 300,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0084",
+      "name": "TESTOSTERONE - TOTAL (SERUM)",
+      "category": "IMMUNOLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0199",
+      "name": "TESTOSTERONE FREE",
+      "category": "IMMUNOLOGY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB069",
+      "name": "TESTOSTERONE PANEL",
+      "category": "IMMUNOLOGY",
+      "price": 3925,
+      "original_price": 4710,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB014",
+      "name": "TFT - THYROID FUNCTION TEST",
+      "category": "IMMUNOLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB451",
+      "name": "THYROGLOBULIN(TG)-SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 1330,
+      "original_price": 1596,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB070",
+      "name": "THYROID ANTIBODY TESTS(ATG & AMA OR TPO)",
+      "category": "BIOCHEMISTRY",
+      "price": 2815,
+      "original_price": 3378,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB0620",
+      "name": "THYROXINE BINDING GLOBULIN",
+      "category": "IMMUNOLOGY",
+      "price": 9280,
+      "original_price": 11136,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0080_2",
+      "name": "TIBC-TOTAL IRON BINDING CAPACITY",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB389",
+      "name": "TISSUE TRANSGLUTAMINASE (TTG) ANTIBODY,  IGA",
+      "category": "IMMUNOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB509",
+      "name": "TISSUE TRANSGLUTAMINASE (TTG) ANTIBODY,  IGG",
+      "category": "IMMUNOLOGY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB390",
+      "name": "TISSUE TRANSGLUTAMINASE (TTG) IGG & IGA",
+      "category": "BIOCHEMISTRY",
+      "price": 5675,
+      "original_price": 6810,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0084",
+      "name": "TISSUE TRANSGLUTAMINASE TTG",
+      "category": "BIOCHEMISTRY",
+      "price": 1430,
+      "original_price": 1716,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB419",
+      "name": "TISSUE TRANSGLUTAMINASE TTG-DGP SCREEN",
+      "category": "IMMUNOLOGY",
+      "price": 2600,
+      "original_price": 3120,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB071_1",
+      "name": "TORCH PANEL IGG SERUM",
+      "category": "SEROLOGY",
+      "price": 3555,
+      "original_price": 4266,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB224",
+      "name": "TORCH PANEL IGM SERUM",
+      "category": "SEROLOGY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB071",
+      "name": "TORCH PROFILE",
+      "category": "SEROLOGY",
+      "price": 5675,
+      "original_price": 6810,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB391",
+      "name": "TOTAL BILIRUBIN",
+      "category": "BIOCHEMISTRY",
+      "price": 200,
+      "original_price": 240,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB001",
+      "name": "TOTAL BILIRUBIN, DIRECT BILIRUBIN & INDIRECT  BILIRUBIN",
+      "category": "BIOCHEMISTRY",
+      "price": 380,
+      "original_price": 456,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PHEM0009",
+      "name": "TOTAL COUNT",
+      "category": "HEMATOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "SR0085",
+      "name": "TOXOPLASMA IGG",
+      "category": "SEROLOGY",
+      "price": 920,
+      "original_price": 1104,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0086",
+      "name": "TOXOPLASMA IGM",
+      "category": "SEROLOGY",
+      "price": 1170,
+      "original_price": 1404,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRP938",
+      "name": "TPMT (THIOPURINE METHYL TRANSFERASE)  GENOTYPING",
+      "category": "IMMUNOLOGY",
+      "price": 7375,
+      "original_price": 8850,
+      "description": "4 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0017",
+      "name": "TPO (THYROID PEROXIDASE) ANTIBODY (AMA)  MICROSOMAL ANTIBODY SERUM",
+      "category": "IMMUNOLOGY",
+      "price": 1860,
+      "original_price": 2232,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0202",
+      "name": "TRANSFERRIN - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 1110,
+      "original_price": 1332,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HE0088",
+      "name": "TREPONEMA HEMAGGLUTINATION TEST (TPHA)",
+      "category": "SEROLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0054",
+      "name": "TRIGLYCERIDES (TGL)",
+      "category": "BIOCHEMISTRY",
+      "price": 250,
+      "original_price": 300,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB610",
+      "name": "TRIGLYCERIDES-FLUID",
+      "category": "BIOCHEMISTRY",
+      "price": 530,
+      "original_price": 636,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB072",
+      "name": "TRIPLE MARKER - SECOND TRIMESTER",
+      "category": "BIOCHEMISTRY",
+      "price": 4830,
+      "original_price": 5796,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0085",
+      "name": "TROPONIN - T",
+      "category": "BIOCHEMISTRY",
+      "price": 1750,
+      "original_price": 2100,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0086",
+      "name": "TROPONIN I",
+      "category": "BIOCHEMISTRY",
+      "price": 1480,
+      "original_price": 1776,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB159",
+      "name": "TSH RECEPTOR ANTIBODIES",
+      "category": "IMMUNOLOGY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB516",
+      "name": "TSH ULTRASENSITIVE, CORD BLOOD",
+      "category": "IMMUNOLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0087",
+      "name": "TSH-THYROID STIMULATING HORMONE",
+      "category": "IMMUNOLOGY",
+      "price": 320,
+      "original_price": 384,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB051",
+      "name": "TYPHOID (RAPID)",
+      "category": "SEROLOGY",
+      "price": 470,
+      "original_price": 564,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0239",
+      "name": "UNBOUND IRON BINDING CAPACITY (UIBC)",
+      "category": "BIOCHEMISTRY",
+      "price": 650,
+      "original_price": 780,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0055",
+      "name": "UREA - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRBC0210",
+      "name": "UREA CREATININE RATIO",
+      "category": "BIOCHEMISTRY",
+      "price": 270,
+      "original_price": 324,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB505",
+      "name": "URIC ACID - 24 HRS URINE",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB394",
+      "name": "URIC ACID - RANDOM URINE",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 150,
+      "original_price": 180,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PBC0056",
+      "name": "URIC ACID - SERUM",
+      "category": "BIOCHEMISTRY",
+      "price": 150,
+      "original_price": 180,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPBC01",
+      "name": "URINARY CORTISOL - 24 HRS",
+      "category": "BIOCHEMISTRY",
+      "price": 1645,
+      "original_price": 1974,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB203_3",
+      "name": "URINE - GRAM STAIN",
+      "category": "MICROBIOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "URINE smear",
+      "popular": false
+    },
+    {
+      "id": "LAB395",
+      "name": "URINE ALBUMIN(QUANTITATIVE)",
+      "category": "BIOCHEMISTRY",
+      "price": 140,
+      "original_price": 168,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0152",
+      "name": "URINE BENCE JONES PROTEINS  (ELECTROPHORESIS)",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 360,
+      "original_price": 432,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PCP0011",
+      "name": "URINE BILIRUBIN",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 200,
+      "original_price": 240,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB396",
+      "name": "URINE CALCIUM - SPOT SAMPLE",
+      "category": "BIOCHEMISTRY",
+      "price": 360,
+      "original_price": 432,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB01",
+      "name": "URINE CALCIUM CREATININE RATIO",
+      "category": "BIOCHEMISTRY",
+      "price": 820,
+      "original_price": 984,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP004",
+      "name": "URINE COMPLETE ANALYSIS / URINE ROUTINE",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "5ml of Urine",
+      "popular": false
+    },
+    {
+      "id": "BC0210",
+      "name": "URINE CREATININE",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB150",
+      "name": "URINE CYTOLOGY",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 399,
+      "original_price": 478.8,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB106",
+      "name": "URINE DIPSTICK",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 160,
+      "original_price": 192,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB397",
+      "name": "URINE FOR ALBUMIN",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 70,
+      "original_price": 84,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB036",
+      "name": "URINE FOR ALBUMIN & SUGAR",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 80,
+      "original_price": 96,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRPB079",
+      "name": "URINE FOR BILE SALT / BILE PIGMENT",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 90,
+      "original_price": 108,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB484",
+      "name": "URINE FOR FAT GLOBULES",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB399",
+      "name": "URINE FOR MORPHINE",
+      "category": "BIOCHEMISTRY",
+      "price": 590,
+      "original_price": 708,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "SR0184",
+      "name": "URINE FOR MYOGLOBULIN",
+      "category": "BIOCHEMISTRY",
+      "price": 620,
+      "original_price": 744,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB400",
+      "name": "URINE FOR PHASE CONTRAST",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 360,
+      "original_price": 432,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PCP0009",
+      "name": "URINE LEUCOCYTES",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 140,
+      "original_price": 168,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "LAB401",
+      "name": "URINE MAGNESIUM - SPOT SAMPLE",
+      "category": "BIOCHEMISTRY",
+      "price": 415,
+      "original_price": 498,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0156",
+      "name": "URINE OSMOLALITY",
+      "category": "BIOCHEMISTRY",
+      "price": 600,
+      "original_price": 720,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "SR0094",
+      "name": "URINE PREGNANCY TEST - UPT",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "5ml of Urine",
+      "popular": false
+    },
+    {
+      "id": "PBC0058",
+      "name": "URINE PROTEIN",
+      "category": "BIOCHEMISTRY",
+      "price": 310,
+      "original_price": 372,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "PGRP902",
+      "name": "URINE THC",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "URINE",
+      "popular": false
+    },
+    {
+      "id": "BC0158",
+      "name": "VALPROIC ACID; VALPROATE",
+      "category": "BIOCHEMISTRY",
+      "price": 1800,
+      "original_price": 2160,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0051",
+      "name": "VARICELLA ZOSTER VIRUS (VZV) ANTIBODY, IGG ( CHICKEN POX / HERPES ZOSTER/ SHINGLES)",
+      "category": "SEROLOGY",
+      "price": 2340,
+      "original_price": 2808,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "SR0050",
+      "name": "VARICELLA ZOSTER VIRUS (VZV) ANTIBODY, IGM  ( CHICKEN POX / HERPES ZOSTER/ SHINGLES)",
+      "category": "SEROLOGY",
+      "price": 2340,
+      "original_price": 2808,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "HE0085_2",
+      "name": "VDRL /RPR TITRE",
+      "category": "SEROLOGY",
+      "price": 700,
+      "original_price": 840,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB068",
+      "name": "VITAMIN A (RETINOL)",
+      "category": "BIOCHEMISTRY",
+      "price": 9280,
+      "original_price": 11136,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0159",
+      "name": "VITAMIN B1 (THIAMINE)",
+      "category": "BIOCHEMISTRY",
+      "price": 5150,
+      "original_price": 6180,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PBC0088",
+      "name": "VITAMIN B12 (CYANOCOBALAMIN)",
+      "category": "IMMUNOLOGY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB467",
+      "name": "VITAMIN B2 (RIBOFLAVIN)",
+      "category": "IMMUNOLOGY",
+      "price": 4720,
+      "original_price": 5664,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0161",
+      "name": "VITAMIN B6 (PYRIDOXINE)",
+      "category": "BIOCHEMISTRY",
+      "price": 6180,
+      "original_price": 7416,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "BC0063",
+      "name": "VITAMIN B9 (FOLIC ACID / FOLATE)",
+      "category": "BIOCHEMISTRY",
+      "price": 1540,
+      "original_price": 1848,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB066_1",
+      "name": "VITAMIN C (ASCORBIC ACID)",
+      "category": "BIOCHEMISTRY",
+      "price": 5941,
+      "original_price": 7129.2,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0089",
+      "name": "VITAMIN D (25 OH CHOLECALCIFEROL)",
+      "category": "IMMUNOLOGY",
+      "price": 2225,
+      "original_price": 2670,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0207_1",
+      "name": "VITAMIN D1- 25 DIHYDROXY",
+      "category": "IMMUNOLOGY",
+      "price": 4030,
+      "original_price": 4836,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0207",
+      "name": "VITAMIN D3 (1-25 DIHYDROXY  CHOLECALCIFEROL)",
+      "category": "IMMUNOLOGY",
+      "price": 5470,
+      "original_price": 6564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "LAB417",
+      "name": "VITAMIN E TOCOPHEROL",
+      "category": "BIOCHEMISTRY",
+      "price": 6790,
+      "original_price": 8148,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "VITK_1",
+      "name": "VITAMIN K1",
+      "category": "IMMUNOLOGY",
+      "price": 6260,
+      "original_price": 7512,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PBC0059",
+      "name": "VLDL",
+      "category": "BIOCHEMISTRY",
+      "price": 470,
+      "original_price": 564,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB111",
+      "name": "VMA - URINE 24 HRS",
+      "category": "BIOCHEMISTRY",
+      "price": 2915,
+      "original_price": 3498,
+      "description": "5ml of URINE",
+      "popular": false
+    },
+    {
+      "id": "HE0041",
+      "name": "VW (VON WILLEBRAND) FACTOR(REF)",
+      "category": "HEMATOLOGY",
+      "price": 15680,
+      "original_price": 18816,
+      "description": "3 ml of Whole Blood",
+      "popular": false
+    },
+    {
+      "id": "PGRPB052",
+      "name": "WEIL-FELIX TEST",
+      "category": "SEROLOGY",
+      "price": 990,
+      "original_price": 1188,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB060",
+      "name": "WET MOUNT PREPARATION",
+      "category": "CLINICAL PATHOLOGY",
+      "price": 190,
+      "original_price": 228,
+      "description": "Body Fluid",
+      "popular": false
+    },
+    {
+      "id": "PGRPB054",
+      "name": "WIDAL TEST (TUBE METHOD)",
+      "category": "SEROLOGY",
+      "price": 590,
+      "original_price": 708,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "PGRPB055",
+      "name": "WIDAL TEST(SLIDE METHOD)",
+      "category": "SEROLOGY",
+      "price": 310,
+      "original_price": 372,
+      "description": "2 ml of SERUM",
+      "popular": false
+    },
+    {
+      "id": "BC0279",
+      "name": "ZINC - PLASMA",
+      "category": "IMMUNOLOGY",
+      "price": 2070,
+      "original_price": 2484,
+      "description": "2 ml of SERUM",
+      "popular": false
+    }
+  ],
+  "promoCodes": [],
+  "slides": [],
+  "packages": [
+    {
+      "id": "1766637223757",
+      "name": "kk",
+      "tests": [
+        "PGRPB054",
+        "PGRPB111",
+        "BC0207",
+        "BC0063",
+        "BC0159"
+      ],
+      "price": 5000,
+      "original_price": 7000,
+      "description": ""
+    },
+    {
+      "id": "1766639773353",
+      "name": "123",
+      "tests": [
+        "8",
+        "12",
+        "LAB0712"
+      ],
+      "price": 4999,
+      "original_price": 0,
+      "description": ""
+    }
+  ],
+  "promocodes": [
+    {
+      "id": "1766682025376",
+      "code": "EXPIRETEST",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "active": true
+    },
+    {
+      "id": "1766682342754",
+      "code": "EXPIRETESTNEW",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "active": true
+    },
+    {
+      "id": "1766682627155",
+      "code": "EXPIRETEST_FINAL",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "expiryDate": "2025-12-31",
+      "usageLimit": null,
+      "usageCount": 0,
+      "active": true
+    }
+  ]
+}
